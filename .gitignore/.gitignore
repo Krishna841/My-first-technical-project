@@ -1,0 +1,5 @@
+nams = input ("Enter the name:")
+country = input ("Enter the country:")
+
+print("My name is "+name)
+print ("I live in "+country)
